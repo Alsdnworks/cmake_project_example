@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(int argc, const char** argv) {
-    std::cout << "Hello, opengl" << std::endl;
+    std::cout << "Hell, opengl" << std::endl;
     return 0;
 }
